@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Nov 2023 04:59:55 GMT
+Server: Delta-Server/0.0.1 (Ubuntu)
+Connection: close
+Content-Language: en-US
+Content-Type: text/html; charset=ISO-8859-1
+Content-Length: 261
+Set-Cookie: name=27e11de4-60d9-429c-899e-6bebb0414c2a; SameSite=Strict
+Last-Modified: Mon, 20 Nov 2023 10:42:01 GMT
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Delta-Server</title>
+  </head>
+  <body>
+    <h1>Welcome to Delta-Server (Ubuntu)</h1>
+  </body>
+</html>

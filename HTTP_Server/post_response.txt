@@ -1,0 +1,10 @@
+HTTP/1.1 201 Created
+Date: Tue, 21 Nov 2023 05:51:31 GMT
+Server: Delta-Server/0.0.1 (Ubuntu)
+Connection: close
+Content-Language: en-US
+Content-Type: text/html; charset=ISO-8859-1
+Content-Length: 94
+Set-Cookie: name=27e11de4-60d9-429c-899e-6bebb0414c2a; SameSite=Strict
+
+<!DOCTYPE html><html><head><title>POST</title></head><body><h1>POST Success</h1></body></html>

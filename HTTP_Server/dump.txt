@@ -1,0 +1,4 @@
+name = name
+age = 20
+author = author
+filename = Put_sever/Put_response.txt

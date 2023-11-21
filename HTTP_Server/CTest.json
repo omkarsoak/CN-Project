@@ -1,0 +1,42 @@
+[
+    {
+        "method": "GET",
+        "url": "/index.html"
+    },
+    {
+        "method": "HEAD",
+        "url": "/form.html"
+    },
+    {
+        "method": "DELETE",
+        "url": "something.txt"
+    },
+    {
+        "method": "PUT",
+        "url": "/",
+        "data": {
+            "name": "name",
+            "age": "20",
+            "author": "author"
+        },
+        "file": {
+            "name": "Put_response.txt",
+            "path": "D:/Omkar/COEP TY/TY Sem V/CN Lab/Mini Project/HTTP_Server/thisfile.txt",
+            "fileType": "text"
+        }
+    },
+    {
+        "method": "POST",
+        "url": "/",
+        "data": {
+            "name": "omkar",
+            "age": "20",
+            "author": "author"  
+        },
+        "file": {
+            "name": "Post_response.txt",
+            "path": "D:/Omkar/COEP TY/TY Sem V/CN Lab/Mini Project/HTTP_Server/thisfile.txt",
+            "fileType": "text"
+        }
+    }
+]

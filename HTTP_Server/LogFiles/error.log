@@ -1,0 +1,39 @@
+[Mon, 20 Nov 2023 17:09:05 +0530] [core: debug] [pid 19092:tid 19972] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Mon, 20 Nov 2023 17:11:43 +0530] [core: debug] [pid 10372:tid 16320] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:24:32 +0530] [core: debug] [pid 1328:tid 3340] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:25:47 +0530] [core: debug] [pid 1328:tid 11304] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:28:06 +0530] [core: debug] [pid 1328:tid 18036] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:30:19 +0530] [core: debug] [pid 1328:tid 2372] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:43:26 +0530] [core: debug] [pid 1988:tid 11796] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:46:38 +0530] [core: debug] [pid 1988:tid 7136] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:47:49 +0530] [core: debug] [pid 1988:tid 12944] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:54:57 +0530] [core: debug] [pid 8744:tid 15108] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:54:58 +0530] [core: error] [pid 8744:tid 15108] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 09:55:54 +0530] [core: debug] [pid 8744:tid 8264] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:55:54 +0530] [core: error] [pid 8744:tid 8264] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 09:56:39 +0530] [core: debug] [pid 10760:tid 17820] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:56:39 +0530] [core: error] [pid 10760:tid 17820] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 09:58:06 +0530] [core: debug] [pid 9080:tid 3036] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 09:58:06 +0530] [core: error] [pid 9080:tid 3036] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 09:58:57 +0530] [core: debug] [pid 348:tid 10992] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:03:33 +0530] [core: debug] [pid 20540:tid 10108] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:05:24 +0530] [core: debug] [pid 20540:tid 16612] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:07:40 +0530] [core: debug] [pid 20540:tid 21256] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:10:56 +0530] [core: debug] [pid 9412:tid 20064] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:17:20 +0530] [core: debug] [pid 9412:tid 15252] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:17:20 +0530] [core: error] [pid 9412:tid 15252] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 10:18:17 +0530] [core: debug] [pid 10328:tid 12076] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:22:04 +0530] [core: debug] [pid 10328:tid 20524] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:22:04 +0530] [core: error] [pid 10328:tid 20524] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 10:22:58 +0530] [core: debug] [pid 10328:tid 1344] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:22:58 +0530] [core: error] [pid 10328:tid 1344] [client 127.0.0.1] write() argument must be str, not bytes
+[Tue, 21 Nov 2023 10:24:37 +0530] [core: debug] [pid 15864:tid 14760] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:26:30 +0530] [core: debug] [pid 328:tid 4940] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:26:48 +0530] [core: debug] [pid 328:tid 13048] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:29:18 +0530] [core: debug] [pid 328:tid 18736] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:29:45 +0530] [core: debug] [pid 21192:tid 4572] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:29:55 +0530] [core: debug] [pid 21192:tid 15628] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 10:30:56 +0530] [core: debug] [pid 14196:tid 4088] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 11:21:31 +0530] [core: debug] [pid 10544:tid 4360] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 11:27:53 +0530] [core: debug] [pid 10544:tid 9144] [client 127.0.0.1] not enough values to unpack (expected 2, got 1)
+[Tue, 21 Nov 2023 11:27:53 +0530] [core: error] [pid 10544:tid 9144] [client 127.0.0.1] [Errno 2] No such file or directory: 'Put_sever/Put_response.txt'
